@@ -28,8 +28,8 @@ A beautiful, fully functional calculator built with a modern UI design using HTM
 
 ### 📁 Clone the repository
 
-        git clone https://github.com/yourusername/calculator-app.git
-        cd calculator-app
+        git clone https://github.com/Uvajanani/Calculator.git
+        cd Calculator
     
   💻 Run locally
   Just open the index.html file in your browser:
