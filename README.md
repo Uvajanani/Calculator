@@ -2,7 +2,6 @@
 
 A beautiful, fully functional calculator built with a modern UI design using HTML, CSS, and JavaScript. Perform basic arithmetic operations with a smooth and interactive interface.
 
-![Calculator Screenshot](./3d100388-2ac1-4b44-8786-d1e96a67f3d8.png)
 
 ---
 
@@ -28,7 +27,7 @@ A beautiful, fully functional calculator built with a modern UI design using HTM
 ## 🚀 Getting Started
 
 ### 📁 Clone the repository
-      ```bash
+
         git clone https://github.com/yourusername/calculator-app.git
         cd calculator-app
     
